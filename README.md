@@ -1,5 +1,5 @@
  <h1 align="center">Hello 👋, I'm Debajyoti Ghosh</h1>
-<h3 align="center">I like to see you in my profile 😇😇. Well, I am a Student of Computer science and engineering(Domain-Web developer) I am sports enthusiast and also university level cricket player. I love travelling, photography and explore things and interested in tech business world and entrepreneurship</h3>
+<h3 align="center">I like to see you in my profile 😇😇. Well, I am a Student of Computer science and engineering(Domain-Web development) I am sports enthusiast and also university level cricket player. I love travelling, photography and explore things and interested in tech business world and entrepreneurship</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debajyotighosh654&label=Profile%20views&color=0e75b6&style=flat" alt="debajyotighosh654" /> </p>
 
